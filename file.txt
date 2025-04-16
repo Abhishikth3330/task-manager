@@ -16,3 +16,11 @@ password : KpQrUyiIRycIFQwI
 
 
 39:00
+
+
+
+43:00 ==> authController.js
+done with the code of registerUser() method
+- next is to test this method using postman, so that we can know it works
+- if the entry has the token then he is known as an admin
+- otherwise it will get the role as a member
