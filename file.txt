@@ -9,7 +9,12 @@ link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 - challenge was to understand thew working of postman
 -> next is to write the code of "updateUserProfile"
 
-
+----------------------------------------------------------
+19/04/2025 : 55:00
+- done with the authController part
+-> next is to work with userController.js
+-> need to write the code for getUsers, getUserById and deleteUser
+-> test this methods are working correctly using postman
 
 
 
