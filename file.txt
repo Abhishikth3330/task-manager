@@ -1,6 +1,21 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+----------------------------------------------------------
 
+18/04/2025 : 46:56
+- done with the code of "loginUser" and "getUserProfile"
+- tested with API in postman
+- works and approved.
+- challenge was to understand thew working of postman
+-> next is to write the code of "updateUserProfile"
+
+
+
+
+
+
+
+-------------------------------------------------------
 22:55
 
 

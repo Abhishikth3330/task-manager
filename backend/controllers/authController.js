@@ -60,12 +60,49 @@ const registerUser = async (req, res) => {
 // @desc    Login User
 // @route   POST /api/auth/login
 // @access  Public
-const loginUser = async (req, res) => {};
+const loginUser = async (req, res) => {
+    try{
+        const { email, password } = req.body;
+
+        const user = await User.findOne({ email });
+        if (!user) {
+            return res.status(401).json({ message: "Invalid email or password" });
+        }
+
+        // compare password
+        const isMatch = await bcrypt.compare(password, user.password);
+        if (!isMatch) {
+            return res.status(401).json({ message: "Invalid email or password" });
+        }
+
+        // return user data with jwt
+        res.json({
+            _id: user._id,
+            name: user.name,
+            email: user.email,
+            role: user.role,
+            profileImageUrl: user.profileImageUrl,
+            token: generateToken(user._id),
+        });
+    } catch (error){
+        res.status(500).json({ message: "Server Error", error: error.message });
+    }
+};
 
 // @desc    Get user Profile
 // @route   GET /api/auth/profile
 // @access  Private (Requires JWT)
-const getUserProfile = async (req, res) => {};
+const getUserProfile = async (req, res) => {
+    try {
+        const user = await User.findById(req.user.id).select("-password");
+        if (!user) {
+            return res.status(401).json({ message: "User not found" });
+        }
+        res.json(user);
+    }catch (error){
+        res.status(500).json({ message: "Server error", error: error.message });
+    }
+};
 
 // @desc    Update user profile
 // @route   PUT /api/auth/profile
