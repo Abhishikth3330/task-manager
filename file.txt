@@ -2,9 +2,16 @@ link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ----------------------------------------------------------
 
+----------------------------------------------------------
+20/04/2025 : 1:06:00
+- started with taskController.js
+- done with createTask method
+-> next is to code and test getTasks() method
 
+
+---------------------------------------------------
 20/04/2025 : 59:00
-- done with userController/js
+- done with taskController.js
 -> next is to work on creating task management APIs
 
 ------------------------------------------------------------
