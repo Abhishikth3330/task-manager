@@ -2,6 +2,12 @@ link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ----------------------------------------------------------
 
+
+20/04/2025 : 59:00
+- done with userController/js
+-> next is to work on creating task management APIs
+
+------------------------------------------------------------
 18/04/2025 : 46:56
 - done with the code of "loginUser" and "getUserProfile"
 - tested with API in postman
@@ -15,6 +21,7 @@ link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 -> next is to work with userController.js
 -> need to write the code for getUsers, getUserById and deleteUser
 -> test this methods are working correctly using postman
+---------------------------------------------------------------------
 
 
 
