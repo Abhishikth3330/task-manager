@@ -1,6 +1,17 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+
+------------------------------------------------
+21/04/2025: 
+
+
+
 ----------------------------------------------------------
+21/04/2025: 1:14:00
+- done with CRUD operation of tasks
+-> next is to work on the progress of the tasks
+-> to update task
+
 
 ----------------------------------------------------------
 20/04/2025 : 1:06:00
