@@ -1,5 +1,12 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+--------------------------------------------------------
+24/04/2025 : 1:49:00
+- started frontend part
+- done with login page
+-> next is to work with signup page
+
+
 ---------------------------------------------------------
 23/04/2025 : 1:35:00
 -> frontend part of login page
