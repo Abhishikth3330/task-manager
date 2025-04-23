@@ -1,5 +1,11 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+---------------------------------------------------------
+23/04/2025 : 1:35:00
+-> frontend part of login page
+-> need some images for login page
+-> edit the html file
+
 
 ----------------------------------------------------------
 22/04/2025 : 1:35:00
