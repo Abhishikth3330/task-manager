@@ -1,5 +1,11 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+
+-------------------------------------------------------
+24/04/2025 : 1:56:00
+- started signup page design
+-> need to write code in the div of the signup page
+
 --------------------------------------------------------
 24/04/2025 : 1:49:00
 - started frontend part
