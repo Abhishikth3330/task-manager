@@ -1,5 +1,14 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+------------------------------------------------------
+25/04/2025 : 2:04:00
+- started integrating login API
+- started frontend & backend "npm run dev" simultaneously
+- tested with the admin and member login
+- admin login takes to the admin/dashboard/
+- member login takes to the user/dashboard/
+-> next is to create a new file in context folder
+-> code in the context folder.
 
 -------------------------------------------------------
 24/04/2025 : 1:56:00

@@ -3,6 +3,8 @@ import AuthLayout from '../../components/layouts/AuthLayout';
 import { Link, useNavigate } from 'react-router-dom';
 import Input from '../../components/Inputs/Input';
 import { validateEmail } from '../../utils/helper';
+import axiosInstance from '../../utils/axiosInstance';
+import { API_PATHS } from '../../utils/apiPaths';
 
 const Login = () => {
   const [email, setEmail] = useState("");
@@ -28,7 +30,31 @@ const Login = () => {
     setError("");
 
     // Login API Call
+    try {
+      const response  = await axiosInstance.post(API_PATHS.AUTH.LOGIN, {
+        email,
+        password,
+      });
 
+      const { token, role } = response.data;
+
+      if (token) {
+        localStorage.setItem("token", token);
+
+        // Redirect based in role
+        if (role === "admin") {
+          navigate("/admin/dashboard");
+        }else {
+          navigate("/user/dashboard");
+        }
+      }
+    } catch (error){
+      if (error.response && error.response.data.message) {
+        setError(error.response.data.message);
+      }else {
+        setError("Something went wrong. Please try again.")
+      }
+    }
   };
   
   return <AuthLayout>
@@ -52,7 +78,7 @@ const Login = () => {
           value={password}
           onChange={({ target }) => setPassword(target.value)}
           label="Password"
-          placeholder="Mib 8 Characters"
+          placeholder="Min 8 Characters"
           type="password"
         />
 
