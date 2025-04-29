@@ -1,7 +1,13 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ------------------------------------------------------
-29/03/2025 : 2:16:00
+29/03/2025 : 
+2:19:00:
+- done with integrating Sign-up API
+-> next is to start with the code of Dashboard design
+
+
+2:16:00
 - done with the code to get the profile image
 -> next is to code the part of Hooks folder
 -> create a new file and start code
