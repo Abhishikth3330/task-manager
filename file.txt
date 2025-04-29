@@ -1,6 +1,18 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ------------------------------------------------------
+29/03/2025 : 2:16:00
+- done with the code to get the profile image
+-> next is to code the part of Hooks folder
+-> create a new file and start code
+
+------------------------------------------------------
+27/04/2025 : 2:10:00
+- done with userContext.jsx file
+-> next is integrating sign-up API
+-> copy part of the code from login.jsx to signup.jsx
+
+------------------------------------------------------
 25/04/2025 : 2:04:00
 - started integrating login API
 - started frontend & backend "npm run dev" simultaneously
