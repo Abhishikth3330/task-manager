@@ -1,5 +1,14 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+
+------------------------------------------------------
+1/5/2025 : 2:45:00
+- done with API call to fetch dashboard Data
+- done with creating summary section
+- done with creating the recent task section
+-> next is to start with "creating Task Distribution System (Pie Chart)"
+-> to code in the "Dashboard.jsx"
+
 ------------------------------------------------------
 30/04/2025 : 2:28:00
 - creating the dashboard page layout
