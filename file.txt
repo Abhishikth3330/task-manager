@@ -1,5 +1,10 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+------------------------------------------------------
+6/5/2025 : 2:57:00
+- done with pie chart and bar chart code
+- closed the right side tabs of the Dashboard.jsx file
+-> next is to start with the create task form section
 
 ------------------------------------------------------
 1/5/2025 : 2:45:00
