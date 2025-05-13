@@ -7,8 +7,7 @@ link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 - still works for some reason
 -> next is to code in SelectedUser.jsx file near the Modal closing tag
 
-
-------------------------------------------------------
+-----------------------------------------------------
 6/5/2025 : 2:57:00
 - done with pie chart and bar chart code
 - closed the right side tabs of the Dashboard.jsx file
