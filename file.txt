@@ -1,6 +1,13 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ------------------------------------------------------
+14/5/2025: 3:27:00
+- added todo list
+- arranged avatars to be displayed
+-> next is to code in the "CreateTask.jsx" below the closing div of the TodoListInput tag.
+
+
+------------------------------------------------------
 10/5/2025 : 3:19:00
 - done with the add members section
 - idk why but that went to a dark mode for some reason, need to figure out why
