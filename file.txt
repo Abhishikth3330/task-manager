@@ -1,6 +1,12 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ------------------------------------------------------
+16/5/2025 : 3:55:00
+- started with manage tasks page
+- imported TaskCard in the manage task file.
+-> next is to code in the "TaskCard.jsx file"
+
+------------------------------------------------------
 15/5/2025 : 3:33:00
 - done with create task button
 - you can add task and add attachments
