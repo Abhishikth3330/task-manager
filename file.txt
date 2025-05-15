@@ -1,6 +1,12 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ------------------------------------------------------
+15/5/2025 : 3:33:00
+- done with create task button
+- you can add task and add attachments
+-> next is to start the validating create task form
+
+------------------------------------------------------
 14/5/2025: 3:27:00
 - added todo list
 - arranged avatars to be displayed
