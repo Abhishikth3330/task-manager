@@ -1,6 +1,11 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
 ------------------------------------------------------
+16/5/2025 : 4:02:00
+- done with task cards
+-> next is to code the update task code in the "CreateTask.jsx"
+
+------------------------------------------------------
 16/5/2025 : 3:55:00
 - started with manage tasks page
 - imported TaskCard in the manage task file.
