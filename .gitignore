@@ -1,0 +1,22 @@
+# Node dependencies
+/backend/node_modules/
+/frontend/Task-Manager/node_modules/
+
+# Vite build output
+/frontend/Task-Manager/dist/
+
+# Environment variables
+**/.env
+**/.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/

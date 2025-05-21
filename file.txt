@@ -13,6 +13,11 @@ Alex (member):
     - username : alex@timetoprogram.com
     - password : Alex@123
 
+Jimmy (member):
+    - username : jimmy@gmail.com
+    - password : test@123
+
+
 ------------------------------------------------------
 21/5/25 : Completed
 - completed with the project, now need to update and improve parts
