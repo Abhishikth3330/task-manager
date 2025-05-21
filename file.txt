@@ -1,11 +1,32 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+Dustin (admin):
+    - username : dustin@timetoprogram.com
+    - password : test@123
+
+
+Adam (member):
+    - username : adam@timetoprogram.com
+    - password : test@123
+
+Alex (member):
+    - username : alex@timetoprogram.com
+    - password : Alex@123
+
+------------------------------------------------------
+21/5/25 : Completed
+- completed with the project, now need to update and improve parts
+-> nice image in the login interface
+-> finishing touches to the project.
+-> readme file
+-> linkedin Post
+
+
 ------------------------------------------------------
 17/5/2025 : 4:25:00
 - done with admin dashboard
 - you can download report of tasks and report of getUsers
 -> next is to start the work on user dashboard (members login side)
-
 
 ------------------------------------------------------
 17:5/2025 : 4:12:00
