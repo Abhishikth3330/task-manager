@@ -1,21 +1,32 @@
 link : https://youtu.be/fZK57PxKC-0?si=K1JQC9B3IgqX1rdG
 
+
+
+
+
+
 Dustin (admin):
-    - username : dustin@timetoprogram.com
+    - username : dustin@gmail.com
     - password : test@123
 
 
 Adam (member):
-    - username : adam@timetoprogram.com
+    - username : adam@gmail.com
     - password : test@123
 
 Alex (member):
-    - username : alex@timetoprogram.com
+    - username : alex@gmail.com
     - password : Alex@123
 
 Jimmy (member):
     - username : jimmy@gmail.com
     - password : test@123
+
+
+
+
+
+
 
 
 ------------------------------------------------------
