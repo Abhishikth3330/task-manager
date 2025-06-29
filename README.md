@@ -11,7 +11,7 @@ https://github.com/Abhishikth3330/task-manager/blob/main/assets/taskmanager_vide
   <summary>🎬 Click here to view the embedded demo (GitHub-supported format)</summary>
 
   <!-- GitHub only renders video inline for .mp4 in the assets folder -->
-  <video src="assets/demo.mp4" controls width="100%"></video>
+  <video src="https://user-images.githubusercontent.com/12345678/abcdef12345678.mp4" controls width="100%"></video>
 
 </details>
 
