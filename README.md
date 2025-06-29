@@ -6,14 +6,7 @@ A full-featured task management web application built with the **MERN stack** (M
 
 ## 🎥 Demo
 
-https://github.com/Abhishikth3330/task-manager/blob/main/assets/taskmanager_video.mp4
-<details>
-  <summary>🎬 Click here to view the embedded demo (GitHub-supported format)</summary>
-
-  <!-- GitHub only renders video inline for .mp4 in the assets folder -->
-  <video src="https://user-images.githubusercontent.com/12345678/abcdef12345678.mp4" controls width="100%"></video>
-
-</details>
+<video src="https://github.com/user-attachments/assets/e5f135df-502c-4857-8fae-c8d3342f4d3a" controls width="100%"></video>
 
 ---
 
