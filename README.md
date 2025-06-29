@@ -6,14 +6,7 @@ A full-featured task management web application built with the **MERN stack** (M
 
 ## 🎥 Demo
 
-https://github.com/Abhishikth3330/task-manager/blob/main/assets/taskmanager_video.mp4
-<details>
-  <summary>🎬 Click here to view the embedded demo (GitHub-supported format)</summary>
-
-  <!-- GitHub only renders video inline for .mp4 in the assets folder -->
-  <video src="assets/demo.mp4" controls width="100%"></video>
-
-</details>
+<video src="https://github.com/user-attachments/assets/e5f135df-502c-4857-8fae-c8d3342f4d3a" controls width="100%"></video>
 
 ---
 
@@ -142,8 +135,19 @@ npm run dev
 
 ---
 
+<<<<<<< HEAD
 ###  Author
 Abhishikth Thul
 💼 Aspiring software engineer with a focus on AI and full-stack development.
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishikth-thul/)
 🔗 [GitHub](https://github.com/Abhishikth3330)
+=======
+## 🧑‍💻 Author
+
+**Abhishikth Thul**  
+💼 *Aspiring software engineer with a focus on AI and full-stack development.*
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishikth-thul/)  
+🔗 [GitHub](https://github.com/Abhishikth3330)
+
+>>>>>>> da8918fcb8b4ff507686ccf00c43049708950f5c
