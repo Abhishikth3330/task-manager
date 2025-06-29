@@ -52,21 +52,21 @@ https://github.com/Abhishikth3330/task-manager/blob/main/assets/taskmanager_vide
 ## 📁 Folder Structure
 
 task-manager/
+├── assets/
+│ └── demo.mp4 # Project walkthrough video
 ├── backend/ # Express + MongoDB + API routes
+│ ├── config/
 │ ├── controllers/
+│ ├── middlewares/
 │ ├── models/
 │ ├── routes/
-│ ├── middleware/
+│ ├── uploads/
 │ └── .env (ignored)
-├── frontend/
-│ └── Task-Manager/ # Vite + React app
+├── frontend/Task-Manager/ # Vite + React app
 │ ├── src/
 │ ├── .env # VITE_API_URL
 │ └── dist/ (build output, ignored)
-├── assets/
-│ └── demo.mp4 # Project walkthrough video
 └── README.md
-
 
 ---
 
@@ -85,57 +85,65 @@ task-manager/
 ```bash
 cd backend
 npm install
-
+```
 
 
 **Create a .env file in backend/ with:**
-PORT=5000
-MONGO_URI=your_mongo_uri
-JWT_SECRET=your_jwt_secret
+```bash
+PORT=8000
+MONGO_URI= mongodb+srv://test:KpQrUyiIRycIFQwI@taskmanager.esnrbxb.mongodb.net/?retryWrites=true&w=majority&appName=taskManager
+JWT_SECRET= 4c8202ee69a630e48159efd78e550fb449a9ae88ef77bb1755d4bfe4188de718f2d12fc0f7ffdd991a824d023fcfa1e41f1820b8b83f55e9c9251a89552cf0ab
+```
 
 
 
 
 **Then run the server:**
+```bash
 npm run dev
+```
 
 
 
 
 **🎨 Frontend Setup**
+```bash
 cd frontend/Task-Manager
 npm install
+```
 
 
 
 
 **Create a .env file in frontend/Task-Manager/ with:**
-VITE_API_URL=http://localhost:5000
+```bash
+VITE_API_URL=http://localhost:8000
+```
 
 
 
 **Start the dev server:**
+```bash
 npm run dev
+```
+
+---
+
+### 💡 Future Improvements
+- ✅ Email notifications on task assignment
+
+- ✅ Drag-and-drop task interface (Trello-style)
+
+- ✅ Commenting system per task
+
+- ✅ User profile and avatars
 
 
+---
 
-💡 Future Improvements
-✅ Email notifications on task assignment
-
-✅ Drag-and-drop task interface (Trello-style)
-
-✅ Commenting system per task
-
-✅ User profile and avatars
-
-
-
-
-**🧑‍💻 Author**
+###  Author
 Abhishikth Thul
 💼 Aspiring software engineer with a focus on AI and full-stack development.
-🔗 LinkedIn
-🔗 GitHub
+-🔗 [LinkedIn](https://www.linkedin.com/in/abhishikth-thul/)
+🔗 [GitHub](https://github.com/Abhishikth3330)
 
-
-```
