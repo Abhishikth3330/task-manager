@@ -147,4 +147,3 @@ Abhishikth Thul
 💼 Aspiring software engineer with a focus on AI and full-stack development.
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishikth-thul/)
 🔗 [GitHub](https://github.com/Abhishikth3330)
-
