@@ -51,6 +51,7 @@ https://github.com/Abhishikth3330/task-manager/blob/main/assets/taskmanager_vide
 
 ## 📁 Folder Structure
 
+```bash
 task-manager/
 ├── assets/
 │ └── demo.mp4 # Project walkthrough video
@@ -66,7 +67,7 @@ task-manager/
 │ ├── src/
 │ ├── .env # VITE_API_URL
 │ └── dist/ (build output, ignored)
-└── README.md
+└── README.md```
 
 ---
 
