@@ -135,13 +135,7 @@ npm run dev
 
 ---
 
-<<<<<<< HEAD
-###  Author
-Abhishikth Thul
-💼 Aspiring software engineer with a focus on AI and full-stack development.
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishikth-thul/)
-🔗 [GitHub](https://github.com/Abhishikth3330)
-=======
+
 ## 🧑‍💻 Author
 
 **Abhishikth Thul**  
@@ -149,5 +143,3 @@ Abhishikth Thul
 
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishikth-thul/)  
 🔗 [GitHub](https://github.com/Abhishikth3330)
-
->>>>>>> da8918fcb8b4ff507686ccf00c43049708950f5c
